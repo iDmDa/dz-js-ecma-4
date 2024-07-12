@@ -24,7 +24,7 @@ async function getUserData(useID) {
 }
 
 getUserData(3);
-getUserData(3);
+getUserData(5);
 getUserData(5636);
 
 /*
